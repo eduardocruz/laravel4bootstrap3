@@ -1,5 +1,6 @@
 {
   "name": "laravel4bootstrap3",
   "dependencies": {
+    "bootstrap": "~3.3.1"
   }
 }
